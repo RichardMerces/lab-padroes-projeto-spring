@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "swagger.auto-open",
+  "type": "java.lang.String",
+  "description": "A description for 'swagger.auto-open'"
+}]}
